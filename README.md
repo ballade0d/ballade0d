@@ -9,4 +9,4 @@
   src="https://github-readme-stats.vercel.app/api?username=ballade0d&show_icons=true&custom_title=Github%20Status&hide=issues&theme=swift&count_private=true"
 />
 - 🔭 I’m currently working on Web & Minecraft Plugin
-- 🌱 I’m currently learning Java, JavaScript, Go
+- 🌱 I’m currently using Java, learning Swift & Go
